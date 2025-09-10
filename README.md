@@ -23,6 +23,7 @@ To turn off logging, delete/comment-out the `log_events()` and `log_status()` fu
 
 Copy the *wifi_tools* folder, found in the *lib/* folder, to the *libraries/* folder in your Arduino folder (where Arduino stores all of your shared libraries.
 Edit the credentials in *wifi_lab/creds.h*.
+
 <image src="https://www.ohioiot.com/images/arduino_ide_friendly.png" width=60px ></image>
 
 
