@@ -1,5 +1,6 @@
 
-#include "wifi_tools.h"
+#include "wifi_tools.h"	// copy the lib/wifi_tools folder from this repo 
+						// into the libraries/ folder in your Arduino folder
 #include "creds.h"
 
 
