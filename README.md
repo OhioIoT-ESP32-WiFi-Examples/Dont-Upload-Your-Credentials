@@ -1,4 +1,4 @@
-# WiFi: Get Your Creds Out <img src="https://www.ohioiot.com/images/logo.jpg" width=40px >
+# ESP32 WiFi: Dont Upload Your Credentials <img src="https://www.ohioiot.com/images/logo.jpg" width=40px >
 
 ## Overview
 
@@ -7,15 +7,13 @@ This code was generated in the YouTube video [ESP32 WiFi: Don't Upload Your Cred
 
 ## Getting Started
 ```
-git clone https://github.com/OhioIoT-Examples/ESP32_WiFi_Dont-Upload-Your-Credentials.git
+git clone https://github.com/OhioIoT-Examples/ESP32-WiFi_Dont-Upload-Your-Credentials.git
 ```
 
 
 ### Getting Started - PlatformIO
 This codebase is structrued as a fully ready PlatformIO project, so users can git pull and then immediately compile (after adding credentials).
 Change the WiFi credentials in *lib/creds.h*.
-
-To turn off logging, delete/comment-out the `log_events()` and `log_status()` function calls.
 
 
 
