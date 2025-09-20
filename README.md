@@ -13,15 +13,16 @@ git clone https://github.com/OhioIoT-Examples/ESP32-WiFi_Dont-Upload-Your-Creden
 
 ### Getting Started - PlatformIO
 This codebase is structrued as a fully ready PlatformIO project, so users can git pull and then immediately compile (after adding credentials).
-Change the WiFi credentials in *lib/creds.h*.
+- change the WiFi credentials in *lib/creds.h*
+- compile and run
 
 
 
 ### Getting Started - Arduino IDE 
 
-Copy the *wifi_tools* folder, found in the *lib/* folder, to the *libraries/* folder in your Arduino folder (where Arduino stores all of your shared libraries.
-
-Edit the credentials in *wifi_lab/creds.h*.
+- Copy the ***lib/wifi_tools*** folder to the ***libraries/*** folder in your Arduino folder (where Arduino stores all of your shared libraries
+- Edit the credentials in ***wifi_lab/creds.h***
+- compile and run ***wifi_lab/wifi_lab.ino***
 
 <image src="https://www.ohioiot.com/images/arduino_ide_friendly.png" width=60px ></image>
 
