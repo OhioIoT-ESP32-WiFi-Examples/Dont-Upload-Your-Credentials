@@ -1,4 +1,4 @@
-# ESP32 WiFi: Don't Upload Your Credentials <img src="https://www.ohioiot.com/images/logo.jpg" width=40px >
+# ESP32 WiFi: Don't Upload Your Credentials [![Alt text]<img src="https://www.ohioiot.com/images/logo.jpg" width=40px >](www.ohioiot.com)
 
 ## Overview
 
