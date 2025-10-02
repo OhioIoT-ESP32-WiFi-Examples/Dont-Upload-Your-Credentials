@@ -12,7 +12,7 @@ git clone https://github.com/OhioIoT-Examples/ESP32-WiFi_Dont-Upload-Your-Creden
 
 
 ### Getting Started - PlatformIO
-This codebase is structrued as a fully ready PlatformIO project, so users can git pull and then immediately compile (after adding credentials).
+This codebase is as a fully ready PlatformIO project.
 - change the WiFi credentials in *lib/creds.h*
 - compile and run
 
