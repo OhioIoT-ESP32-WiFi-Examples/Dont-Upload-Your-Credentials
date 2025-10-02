@@ -7,7 +7,7 @@ This code was generated in the YouTube video [ESP32 WiFi: Don't Upload Your Cred
 
 ## Getting Started
 ```
-git clone https://github.com/OhioIoT-Examples/ESP32-WiFi_Dont-Upload-Your-Credentials.git
+git clone https://github.com/OhioIoT-ESP32-WiFi-Examples/Dont-Upload-Your-Credentials.git
 ```
 
 
