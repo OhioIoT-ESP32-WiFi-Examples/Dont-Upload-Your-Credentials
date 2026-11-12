@@ -25,7 +25,7 @@ This codebase is as a fully ready PlatformIO project.
 - Edit the credentials in ***wifi_lab/creds.h***
 - compile and run ***wifi_lab/wifi_lab.ino***
 
-<image src="https://www.ohioiot.com/images/arduino_ide_friendly.png" width=60px ></image>
+<image src="https://www.ohioiot.com/arduino_ide_friendly.png" width=60px ></image>
 
 
 ## About
